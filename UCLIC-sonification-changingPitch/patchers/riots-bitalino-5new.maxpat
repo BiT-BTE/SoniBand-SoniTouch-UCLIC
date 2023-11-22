@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 79.0, 1228.0, 640.0 ],
+		"rect" : [ 274.0, 256.0, 1228.0, 640.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -365,7 +365,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1363.199951000000056, 357.0, 35.0, 61.5 ],
+					"patching_rect" : [ 1363.199951000000056, 357.0, 35.0, 62.0 ],
 					"setminmax" : [ -180.0, 180.0 ],
 					"size" : 3
 				}
@@ -2345,7 +2345,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 1201.916625999999951, 357.0, 24.0, 61.5 ],
+					"patching_rect" : [ 1201.916625999999951, 357.0, 24.0, 62.0 ],
 					"setminmax" : [ 0.0, 1.0 ],
 					"setstyle" : 5
 				}
@@ -2510,7 +2510,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 837.200012000000015, 357.0, 35.0, 61.5 ],
+					"patching_rect" : [ 837.200012000000015, 357.0, 35.0, 62.0 ],
 					"setminmax" : [ -180.0, 180.0 ],
 					"size" : 3
 				}
@@ -4490,7 +4490,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 675.916625999999951, 357.0, 24.0, 61.5 ],
+					"patching_rect" : [ 675.916625999999951, 357.0, 24.0, 62.0 ],
 					"setminmax" : [ 0.0, 1.0 ],
 					"setstyle" : 5
 				}
@@ -4589,7 +4589,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 321.200012000000015, 357.0, 35.0, 61.5 ],
+					"patching_rect" : [ 321.200012000000015, 357.0, 35.0, 62.0 ],
 					"setminmax" : [ -180.0, 180.0 ],
 					"size" : 3
 				}
@@ -6569,7 +6569,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 159.916655999999989, 357.0, 24.0, 61.5 ],
+					"patching_rect" : [ 159.916655999999989, 357.0, 24.0, 62.0 ],
 					"setminmax" : [ 0.0, 1.0 ],
 					"setstyle" : 5
 				}
